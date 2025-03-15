@@ -4,7 +4,7 @@ import subprocess
 from discriminator.run import Cluster
 from generator.node_mask_codet5p import NodeMaskCodet5p
 from ts_tree_sitter.go_tree_sitter_tool import GoTreeSitterTool
-from repo_anomalyrl.AnomalyRL.rl.src.ts_tree_sitter.ts_parser import GoParser
+from ts_tree_sitter.ts_parser import GoParser
 
 
 import warnings
