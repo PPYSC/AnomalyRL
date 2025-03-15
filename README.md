@@ -23,7 +23,7 @@ AnomalyRL is a reinforcement learning-based approach for automatically generatin
 **1. Clone the Repository**
    
 ```bash
-git clone https://github.com/yourusername/AnomalyRL.git
+git clone https://github.com/PPYSC/AnomalyRL.git
 cd AnomalyRL
 ```
    
